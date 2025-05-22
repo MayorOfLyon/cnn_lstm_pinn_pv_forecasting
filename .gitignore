@@ -1,4 +1,7 @@
 weights_cnn_lstm/
 weights_pinns/
 weights_cnn_lstm_combine/
-dataset/*
+dataset/raw_dataset/**
+dataset/final_dataset/**
+dataset/pre_dataset/**
+dataset/prepared_dataset/**
