@@ -11,5 +11,4 @@ DataCastle国能日新光伏功率预测大赛数据集:https://gitcode.com/open
 
 ## Reference 
 https://github.com/yyhhlancelot/DC_power_prediction_rank21
-
-感谢原作者的开源代码，本文的数据处理操作代码几乎全部来源于此，对应代码./tools/
+感谢原作者的开源代码，本文的数据处理操作代码在此基础上进行了一些改进，对应代码./tools/
